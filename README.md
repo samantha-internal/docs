@@ -1,2 +1,2 @@
-# docs
-Documentation for the Whitehead AI platform
+# Initial page
+
