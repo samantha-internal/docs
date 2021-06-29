@@ -1,8 +1,8 @@
 # Introduction
 
-## What is Whitehead AI?
+## What is `whitehead``?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+`whitehead` is to natural language what lodash is to js objects
 
 | Foo |
 | :--- |
