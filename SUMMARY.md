@@ -1,42 +1,42 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Overview](overview.md)
+* [Overview](content/overview.md)
 
 ## Getting started
 
-* [Get API key](getting-started/get-api-key.md)
-* [Setup client](getting-started/setup-client.md)
-* [Call APIs](getting-started/call-apis.md)
-* [GraphQL playground](getting-started/graphql-playground.md)
-* [CLI playground](getting-started/cli-playground.md)
+* [Get API key](content/getting-started/get-api-key.md)
+* [Setup client](content/getting-started/setup-client.md)
+* [Call APIs](content/getting-started/call-apis.md)
+* [GraphQL playground](content/getting-started/graphql-playground.md)
+* [CLI playground](content/getting-started/cli-playground.md)
 
 ## Concepts
 
-* [Motivation](concepts/motivation.md)
-* [Features](concepts/features.md)
-* [Use cases](concepts/untitled.md)
-* [API design](concepts/api-design.md)
-* [Composing APIs](concepts/composing-apis.md)
+* [Motivation](content/concepts/motivation.md)
+* [Features](content/concepts/features.md)
+* [Use cases](content/concepts/untitled.md)
+* [API design](content/concepts/api-design.md)
+* [Composing APIs](content/concepts/composing-apis.md)
 
 ## Guides
 
-* [Intro to GraphQL](guides/intro-to-graphql.md)
-* [Call APIs directly](guides/call-apis-directly.md)
-* [Using Node.js SDK](guides/using-nodejs-sdk.md)
-* [Using Python SDK](guides/using-python-sdk.md)
+* [Intro to GraphQL](content/guides/intro-to-graphql.md)
+* [Call APIs directly](content/guides/call-apis-directly.md)
+* [Using Node.js SDK](content/guides/using-nodejs-sdk.md)
+* [Using Python SDK](content/guides/using-python-sdk.md)
 
 ## API Reference
 
-* [Authentication](api-reference/authentication.md)
-* [GraphQL API](api-reference/graphql-api.md)
-* [REST API](api-reference/rest-api.md)
+* [Authentication](content/api-reference/authentication.md)
+* [GraphQL API](content/api-reference/graphql-api.md)
+* [REST API](content/api-reference/rest-api.md)
 
 ## Resources
 
-* [FAQ](resources/faq.md)
-* [Changelog \(2021-06-17\)](resources/changelog.md)
-* [Partner program](resources/partner-program.md)
+* [FAQ](content/resources/faq.md)
+* [Changelog \(content/2021-06-17\)](resources/changelog.md)
+* [Partner program](content/resources/partner-program.md)
 
 ---
 
