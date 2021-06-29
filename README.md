@@ -1,12 +1,8 @@
 # Introduction
 
-## What is `whitehead``?
+## What is `whitehead`?
 
 `whitehead` is to natural language what lodash is to js objects
-
-| Foo |
-| :--- |
-
 
 Did that work?
 
