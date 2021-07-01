@@ -22,8 +22,8 @@
 ## Guides
 
 * [Using GraphQL](content/guides/intro-to-graphql.md)
-* [Compose APIs](content/guides/composing-apis.md)
-* [GraphQL playground](content/guides/graphql-playground.md)
+* [Compose APIs](content/guides/compose-apis.md)
+* [GraphiQL](content/guides/graphiql.md)
 * [CLI playground](content/guides/cli-playground.md)
 
 ## API Reference
@@ -37,10 +37,11 @@
 * [API design](content/resources/api-design.md)
 * [FAQ](content/resources/faq.md)
 * [Changelog](content/resources/changelog.md)
-* [Partner program](content/resources/partner-program.md)
 
 ---
 
-* [Community Discord Channel](https://discord.gg/bMJ8VJ7M)
+* [Discord Channel](https://discord.gg/bMJ8VJ7M)
 * [Support](https://support.whitehead.ai)
+* [Github](https://github.com/whitehead-ai)
 * [Contact us](https://whitehead-ai.zendesk.com/hc/en-us/requests/new)
+* [Partner program](https://fi5mp2zbqrz.typeform.com/to/jqnyKoBB)
