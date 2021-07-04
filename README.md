@@ -13,15 +13,15 @@ Whitehead is a simple and elegant API for common natural language tasks. You can
 
 The Whitehead libraries have been designed for human beings. They are simple and high-level so you can focus on the design and "feel" of your applications rather than the technical details. You can see for yourself in these examples!
 
-{% tabs }
-{% tab title="Chit-chat" }
+{% tabs %}
+{% tab title="Chit-chat" %}
 ``` python
 await chitchat("Which TV actor do you like?")
 # "I don't really like watching TV but I kinda like Jennifer Aniston."
 
 ```
-{% endtab }
-{% tab title="Answer questions" }
+{% endtab %}
+{% tab title="Answer questions" %}
 ``` python
 
 # The context can be a plain string passage as well.
@@ -38,8 +38,8 @@ await answer(
 # }
 
 ```
-{% endtab }
-{% tab title="Smartcomplete" }
+{% endtab %}
+{% tab title="Smartcomplete" %}
 ``` python
 
 await smartcomplete(
@@ -49,8 +49,8 @@ await smartcomplete(
 # "Tuesday or Wednesday?",
 
 ```
-{% endtab }
-{% tab title="Transcribe" }
+{% endtab %}
+{% tab title="Transcribe" %}
 ``` python
 
 # Works the same with file uploads and URLs
@@ -63,8 +63,8 @@ await transcribe(websocket.Stream("wss://some-user-input"))
 # ]
 
 ```
-{% endtab }
-{% tab title="Paraphrase" }
+{% endtab %}
+{% tab title="Paraphrase" %}
 ``` python
 
 await paraphrase("Can I have a large pizza?")
@@ -77,5 +77,5 @@ await paraphrase("Can I have a large pizza?")
 # ]
 
 ```
-{% endtab }
-{% endtabs }
+{% endtab %}
+{% endtabs %}
