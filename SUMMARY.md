@@ -6,6 +6,7 @@
 
 ## Getting started
 
+* [Get your API key](content/getting-started/get-api-key.md)
 * [Setup client](content/getting-started/setup-client.md)
 * [Call APIs](content/getting-started/call-apis.md)
 * [Explore](content/getting-started/explore.md)
