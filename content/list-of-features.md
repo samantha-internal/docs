@@ -2,40 +2,57 @@
 
 ## Language
 
-`paraphrase`
-`sentiment`
-`emotions`
-`similarity`
+| API          | Description                                                                            |
+|:-------------|:---------------------------------------------------------------------------------------|
+| `paraphrase` | Generate different ways of saying the same thing, preserving the meaning.              |
+| `sentiment`  | Calculate polarity of a given sentence as a floating point number between `-1` and `1` |
+| `emotions`   | Classify input by different emotions like, `happiness`, `anger` etc                    |
+| `similarity` | Calculate similarity between a sentence and candidates                                 |
 
 ## Speech
 
-`speak`
-`transcribe`
-`recognize`
+| API          | Description                             |
+|:-------------|:----------------------------------------|
+| `speak`      | Convert text to natural-sounding speech |
+| `transcribe` | Transcribe speech audio to extract text |
+| `identify`   | Identify speakers from speech audio     |
 
 ## Conversations
 
-`parse`
-`chitchat`
-`dialogtag`
+| API         | Description                                                                          |
+|:------------|:-------------------------------------------------------------------------------------|
+| `parse`     | Parse user input to understand intent and entities                                   |
+| `chitchat`  | Conduct free-form chit-chat with your users                                          |
+| `dialogtag` | Tag dialog utterances with [_dialog acts_](https://en.wikipedia.org/wiki/Dialog_act) |
 
 ## Understanding
 
-`sensibility`
-`deduce`
-`topics`
-`smartcomplete`
-`entities`
+| API             | Description                                                                 |
+|:----------------|:----------------------------------------------------------------------------|
+| `sensibility`   | Rank a list of inputs according to how sensible they are in a given context |
+| `deduce`        | Apply commonsense reasoning to normal situation                             |
+| `topics`        | Mine topics from a given input                                              |
+| `smartcomplete` | Smart auto-completion of a user prompt                                      |
+| `entities`      | Extract entities from a given input                                         |
 
 ## Documents
 
-`answer`
-`search`
-`summarize`
+| API         | Description                                                                        |
+|:------------|:-----------------------------------------------------------------------------------|
+| `answer`    | Answer plain-language questions from a given context, including a set of documents |
+| `search`    | Semantic search and retrieval of queries from a set of documents                   |
+| `summarize` | Summarize document or passage                                                      |
 
 ## Compose
 
-`compose`
-`template`
-`normalize`
+| API       | Description                                                                     |
+|:----------|:--------------------------------------------------------------------------------|
+| `compose` | Easily compose different Whitehead APIs together in a single inference pipeline |
+
+## Utilities
+
+| API         | Description |
+|:------------|:------------|
+| `template` | Generate output by interpolating variables in templates and apply the correct tense and inflections |
+| `normalize` | Normalize input to remove spelling mistakes, common grammatical mistakes etc |
 
