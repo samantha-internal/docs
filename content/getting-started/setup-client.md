@@ -73,8 +73,9 @@ client = Whitehead(developer_id, api_key)
 {% hint style="info" %}
 
 For authentication, the `Whitehead` constructor searches for credentials in the following order:
-1. The `developer_id` and `api_key` parameters passed.
-2. Environment variables `WHITEHEAD_DEVELOPER_ID` and `WHITEHEAD_API_KEY`
-3. Access token, if persisted, from `~/.cache/whitehead/access-token` (This only stores the generated access token and not the plain api key)
+
+1. The `developer_id` and `api_key` parameters passed.  
+2. Environment variables `WHITEHEAD_DEVELOPER_ID` and `WHITEHEAD_API_KEY`  
+3. Access token, if persisted, from `~/.cache/whitehead/access-token` (This only stores the generated access token and not the plain api key)  
 
 {% endhint %}
