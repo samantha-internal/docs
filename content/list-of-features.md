@@ -49,10 +49,17 @@
 |:----------|:--------------------------------------------------------------------------------|
 | `compose` | Easily compose different Whitehead APIs together in a single inference pipeline |
 
+## Training
+
+| API     | Description                                                     |
+|:--------|:----------------------------------------------------------------|
+| `train` | Train (or more precisely, fine-tune) a task to your own dataset |
+| `eval`  | Evaluate accuracy of a custom model for a particular task       |
+
 ## Utilities
 
-| API         | Description |
-|:------------|:------------|
-| `template` | Generate output by interpolating variables in templates and apply the correct tense and inflections |
-| `normalize` | Normalize input to remove spelling mistakes, common grammatical mistakes etc |
+| API         | Description                                                                                         |
+|:------------|:----------------------------------------------------------------------------------------------------|
+| `template`  | Generate output by interpolating variables in templates and apply the correct tense and inflections |
+| `normalize` | Normalize input to remove spelling mistakes, common grammatical mistakes etc                        |
 
