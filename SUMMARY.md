@@ -19,6 +19,8 @@
 * [Understanding](content/features/understanding.md)
 * [Documents](content/features/documents.md)
 * [Compose](content/features/compose.md)
+* [Training](content/features/training.md)
+* [Utilities](content/features/utilities.md)
 
 ## Guides
 
