@@ -1,7 +1,25 @@
 # Utilities
 
-| API         | Description                                                                                         |
-|:------------|:----------------------------------------------------------------------------------------------------|
-| `template`  | Generate output by interpolating variables in templates and apply the correct tense and inflections |
-| `normalize` | Normalize input to remove spelling mistakes, common grammatical mistakes etc                        |
+[Content description here]
 
+### template `coming soon`
+
+> [Join the waitlist](http://fill-this-form)
+
+Generate output by interpolating variables in templates and apply the correct tense and inflections
+
+**Signature:**  
+```python
+template(input: ) -> Output
+```
+
+### normalize `coming soon`
+
+> [Join the waitlist](http://fill-this-form)
+
+Normalize input to remove spelling mistakes, common grammatical mistakes etc                       
+
+**Signature:**  
+```python
+normalize(input: ) -> Output
+```

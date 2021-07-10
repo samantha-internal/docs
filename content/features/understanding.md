@@ -1,10 +1,54 @@
-# understanding 
+# Understanding 
 
+[Content description here]
 
-| API             | Description                                                                 |
-|:----------------|:----------------------------------------------------------------------------|
-| `sensibility`   | Rank a list of inputs according to how sensible they are in a given context |
-| `deduce`        | Apply commonsense reasoning to normal situation                             |
-| `topics`        | Mine topics from a given input                                              |
-| `smartcomplete` | Smart auto-completion of a user prompt                                      |
-| `entities`      | Extract entities from a given input                                         |
+### sensibility `preview`
+
+> [Join the waitlist](http://fill-this-form)
+
+Rank a list of inputs according to how sensible they are in a given context
+
+**Signature:**  
+```python
+sensibility(input: ) -> Output
+```
+
+### deduce `beta`
+
+Apply commonsense reasoning to normal situation                            
+
+**Signature:**  
+```python
+deduce(input: ) -> Output
+```
+
+### topics `beta`
+
+Mine topics from a given input                                             
+
+**Signature:**  
+```python
+topics(input: ) -> Output
+```
+
+### smartcomplete `coming soon`
+
+> [Join the waitlist](http://fill-this-form)
+
+Smart auto-completion of a user prompt                                     
+
+**Signature:**  
+```python
+smartcomplete(input: ) -> Output
+```
+
+### entities `coming soon`
+
+> [Join the waitlist](http://fill-this-form)
+
+Extract entities from a given input                                        
+
+**Signature:**  
+```python
+entities(input: ) -> Output
+```
