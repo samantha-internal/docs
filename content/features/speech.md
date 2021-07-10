@@ -2,7 +2,7 @@
 
 [Content description here]
 
-### speak `beta`
+### speak <sup>beta</sup>
 
 Convert text to natural-sounding speech
 
