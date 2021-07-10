@@ -13,7 +13,7 @@ Parse user input to understand intent and entities
 parse(input: ) -> Output
 ```
 
-### chitchat `beta`
+### chitchat ![beta](../../.gitbook/assets/beta-text.png)
 
 Conduct free-form chit-chat with your users                                          
 

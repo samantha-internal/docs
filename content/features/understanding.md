@@ -13,7 +13,7 @@ Rank a list of inputs according to how sensible they are in a given context
 sensibility(input: ) -> Output
 ```
 
-### deduce `beta`
+### deduce ![beta](../../.gitbook/assets/beta-text.png)
 
 Apply commonsense reasoning to normal situation                            
 
@@ -22,7 +22,7 @@ Apply commonsense reasoning to normal situation
 deduce(input: ) -> Output
 ```
 
-### topics `beta`
+### topics ![beta](../../.gitbook/assets/beta-text.png)
 
 Mine topics from a given input                                             
 

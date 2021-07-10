@@ -2,7 +2,7 @@
 
 [Content description here]
 
-### speak <sup>beta</sup>
+### speak ![beta](../../.gitbook/assets/beta-text.png)
 
 Convert text to natural-sounding speech
 
@@ -11,7 +11,7 @@ Convert text to natural-sounding speech
 speak(input: ) -> Output
 ```
 
-### transcribe `beta`
+### transcribe ![beta](../../.gitbook/assets/beta-text.png)
 
 Transcribe speech audio to extract text
 

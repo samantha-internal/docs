@@ -2,7 +2,7 @@
 
 [Content description here]
 
-### paraphrase `beta`
+### paraphrase ![beta](../../.gitbook/assets/beta-text.png)
 
 Generate different ways of saying the same thing, preserving the meaning.             
 
@@ -11,7 +11,7 @@ Generate different ways of saying the same thing, preserving the meaning.
 paraphrase(input: ) -> Output
 ```
 
-### sentiment `beta`
+### sentiment ![beta](../../.gitbook/assets/beta-text.png)
 
 Calculate polarity of a given sentence as a floating point number between `-1` and `1`
 
@@ -31,7 +31,7 @@ Classify input by different emotions like, `happiness`, `anger` etc
 emotions(input: ) -> Output
 ```
 
-### similarity `beta`
+### similarity ![beta](../../.gitbook/assets/beta-text.png)
 
 Calculate similarity between a sentence and candidates                                
 

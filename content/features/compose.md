@@ -3,7 +3,7 @@
 [Content description here]
 
 
-### compose `beta`
+### compose ![beta](../../.gitbook/assets/beta-text.png)
 
 Easily compose different Whitehead APIs together in a single inference pipeline
 
