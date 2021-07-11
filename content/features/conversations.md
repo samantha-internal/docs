@@ -2,7 +2,7 @@
 
 [Content description here]
 
-### parse `coming soon`
+### parse ![coming-soon](../../.gitbook/assets/coming-soon-text.png)
 
 > [Join the waitlist](http://fill-this-form)
 
@@ -22,7 +22,7 @@ Conduct free-form chit-chat with your users
 chitchat(input: ) -> Output
 ```
 
-### dialogtag `coming soon`
+### dialogtag ![coming-soon](../../.gitbook/assets/coming-soon-text.png)
 
 > [Join the waitlist](http://fill-this-form)
 

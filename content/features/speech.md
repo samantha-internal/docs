@@ -20,7 +20,7 @@ Transcribe speech audio to extract text
 transcribe(input: ) -> Output
 ```
 
-### identify `coming soon`
+### identify ![coming-soon](../../.gitbook/assets/coming-soon-text.png)
 
 > [Join the waitlist](http://fill-this-form)
 

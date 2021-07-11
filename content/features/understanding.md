@@ -2,7 +2,7 @@
 
 [Content description here]
 
-### sensibility `preview`
+### sensibility ![private-preview](../../.gitbook/assets/private-preview-text.png)
 
 > [Join the waitlist](http://fill-this-form)
 
@@ -31,7 +31,7 @@ Mine topics from a given input
 topics(input: ) -> Output
 ```
 
-### smartcomplete `coming soon`
+### smartcomplete ![coming-soon](../../.gitbook/assets/coming-soon-text.png)
 
 > [Join the waitlist](http://fill-this-form)
 
@@ -42,7 +42,7 @@ Smart auto-completion of a user prompt
 smartcomplete(input: ) -> Output
 ```
 
-### entities `coming soon`
+### entities ![coming-soon](../../.gitbook/assets/coming-soon-text.png)
 
 > [Join the waitlist](http://fill-this-form)
 

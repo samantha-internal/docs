@@ -3,7 +3,7 @@
 [Content description here]
 
 
-### answer `preview`
+### answer ![private-preview](../../.gitbook/assets/private-preview-text.png)
 
 > [Join the waitlist](http://fill-this-form)
 
@@ -14,7 +14,7 @@ Answer plain-language questions from a given context, including a set of documen
 answer(input: ) -> Output
 ```
 
-### search `coming soon`
+### search ![coming-soon](../../.gitbook/assets/coming-soon-text.png)
 
 > [Join the waitlist](http://fill-this-form)
 
@@ -25,7 +25,7 @@ Semantic search and retrieval of queries from a set of documents
 search(input: ) -> Output
 ```
 
-### summarize `coming soon`
+### summarize ![coming-soon](../../.gitbook/assets/coming-soon-text.png)
 
 > [Join the waitlist](http://fill-this-form)
 

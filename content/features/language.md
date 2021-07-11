@@ -20,7 +20,7 @@ Calculate polarity of a given sentence as a floating point number between `-1` a
 sentiment(input: ) -> Output
 ```
 
-### emotions `preview`
+### emotions ![private-preview](../../.gitbook/assets/private-preview-text.png)
 
 > [Join the waitlist](http://fill-this-form)
 
