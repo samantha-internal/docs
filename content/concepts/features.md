@@ -1,12 +1,41 @@
 # Features
 
-## Can I become who I want to be?
+## Language
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+| API | Description |
+| :--- | :--- |
+| `paraphrase` | Generate different ways of saying the same thing, preserving the meaning. |
+| `sentiment` | Calculate polarity of a given sentence as a floating point number between `-1` and `1` |
+| `similarity` | Calculate similarity between a sentence and candidates |
 
-## Have you had a chance to answer the previous question?
+## Speech
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+| API | Description |
+| :--- | :--- |
+| `speak` | Convert text to natural-sounding speech |
+| `transcribe` | Transcribe speech audio to extract text |
+
+## Conversations
+
+| API | Description |
+| :--- | :--- |
+| `parse` | Parse user input to understand intent and entities |
+| `chitchat` | Conduct free-form chit-chat with your users |
+
+## Understanding
+
+| API | Description |
+| :--- | :--- |
+| `sensibility` | Rank a list of inputs according to how sensible they are in a given context |
+| `deduce` | Apply commonsense reasoning to normal situation |
+| `topics` | Mine topics from a given input |
+| `nlu` | Extract entities from a given input |
+
+## Compose
+
+| API | Description |
+| :--- | :--- |
+| `compose` | Easily compose different Whitehead APIs together in a single inference pipeline |
 
 
 

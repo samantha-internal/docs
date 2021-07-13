@@ -12,7 +12,9 @@ Both SDKs ship with a command-line based interactive playground that has built-i
 
 ```bash
 npm i -g @whitehead/sdk
+
 # You can omit the -g flag and use it with npx
+npx @whitehead/sdk
 ```
 
 
@@ -44,10 +46,6 @@ whitehead-plaground
 ![This is what the CLI playground looks like](../.gitbook/assets/mauna_playground_screenshot.png)
 
 {% hint style="info" %}
-The playground comes with built-in **tab completion**, **top-level await**, **documentation** and a **pre-configured API client.**
+The playground comes with built-in **tab completion**, **top-level await**, **documentation,** and a **pre-configured API client.**
 {% endhint %}
-
-## Python playground
-
-> Coming soooon!
 

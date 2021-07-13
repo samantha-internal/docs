@@ -1,12 +1,15 @@
 # Overview
 
-## Can I become who I want to be?
+## What we offer
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+The existing API offerings are low-level and require knowledge of NLP and training deep learning models. We have built a suite of APIs that tackle high-level tasks and are ready to use with or without custom training data.
 
-## Have you had a chance to answer the previous question?
+Whitehead provides accurate, trainable, and context-aware natural language APIs that are tastefully designed to be simple to use.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## Target Audience
 
-
+* Developers and startups building natural language and voice applications.
+* Research institutes and media labs looking for more powerful NL tools.
+* Consulting firms looking for a NL solution that gives them an edge in product shipping.
+* Enterprise companies interested in building competitors to Alexa, Google Assistant, and Siri.
 

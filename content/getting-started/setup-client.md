@@ -2,7 +2,7 @@
 
 ## Install the SDK
 
-Install the _Whitehead SDK_ in your favorite runtime \(we currently support `node.js 8.0+` and `python 3.5+`\):
+Install the _Whitehead SDK_ in your favorite runtime \(we currently support `node.js 8.0+` and `python 3.6+`\):
 
 {% tabs %}
 {% tab title="node.js" %}

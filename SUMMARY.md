@@ -17,7 +17,6 @@
 * [Features](content/concepts/features.md)
 * [Use cases](content/concepts/untitled.md)
 * [API design](content/concepts/api-design.md)
-* [Composing APIs](content/concepts/composing-apis.md)
 
 ## Guides
 
@@ -30,12 +29,11 @@
 
 * [Authentication](content/api-reference/authentication.md)
 * [GraphQL API](content/api-reference/graphql-api.md)
-* [REST API](content/api-reference/rest-api.md)
 
 ## Resources
 
 * [FAQ](content/resources/faq.md)
-* [Changelog \(content/2021-06-17\)](resources/changelog.md)
+* [Changelog \(content/2021-06-17\)](content/resources/changelog-content-2021-06-17.md)
 * [Partner program](content/resources/partner-program.md)
 
 ---
