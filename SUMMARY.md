@@ -35,7 +35,7 @@
 ## Resources
 
 * [FAQ](content/resources/faq.md)
-* [Changelog \(content/2021-06-17\)](resources/changelog.md)
+* [Changelog \(content/2021-06-17\)](content/resources/changelog-content-2021-06-17.md)
 * [Partner program](content/resources/partner-program.md)
 
 ---
