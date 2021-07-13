@@ -21,11 +21,11 @@ import { authenticate, chitchat, answer, smartcomplete, paraphrase } from "@whit
 // const { authenticate, chitchat, answer, smartcomplete, paraphrase } = require("@whitehead/sdk");
 
 async function call_apis() {
-    // Credentials optional if the tokens were saved locally by running
-    // the CLI `whitehead login` command beforehand
+
     await authenticate({api_key: "XXXXXXXXXXXXXXXXXX", developer_id: 42})
 
     let result;
+    
     result = await chitchat("Which TV actor do you like?");
     // "I don't really like watching TV but I kinda like Jennifer Aniston."
 
@@ -34,15 +34,8 @@ async function call_apis() {
       {context: "John and Mary went to Brighton Beach for their honeymoon."}
     )
     // {
-    //   "answer": "You can take 5 days off every quarter as a paid leave.",
-    //   "reference": {...}
+    //   "answer": "Brighton Beach for their honeymoon"
     // }
-
-    result = await smartcomplete(
-      "Dear Martha, I am not free today but would you like to grab coffee on", 
-      {context: "Today is Monday."}
-    )
-    // "Tuesday or Wednesday?",
 
     result = await paraphrase("Can I have a large pizza?")
     // [
@@ -59,8 +52,7 @@ async function call_apis() {
 from whitehead import *
 
 async def call_apis():
-    # Credentials optional if the tokens were saved locally by running
-    # the CLI `whitehead login` command beforehand
+
     await authenticate(api_key="XXXXXXXXXXXXXXXXXX", developer_id=42)
 
     result = await chitchat("Which TV actor do you like?")
@@ -70,14 +62,9 @@ async def call_apis():
         "Where did John go?",
         context="John and Mary went to Brighton Beach for their honeymoon.")
     # {
-    #   "answer": "You can take 5 days off every quarter as a paid leave.",
+    #   "answer": "Brighton Beach for their honeymoon",
     #   "reference": {...}
     # }
-
-    result = await smartcomplete(
-        "Dear Martha, I am not free today but would you like to grab coffee on", 
-        context="Today is Monday.")
-    # "Tuesday or Wednesday?",
 
     result = await paraphrase("Can I have a large pizza?")
     # [
@@ -94,8 +81,7 @@ from whitehead.sync import *
 # NOT RECOMMENDED unless not convenient to use the async API
 
 def call_apis():
-    # Credentials optional if the tokens were saved locally by running
-    # the CLI `whitehead login` command beforehand
+
     authenticate(api_key="XXXXXXXXXXXXXXXXXX", developer_id=42)
 
     result = chitchat("Which TV actor do you like?")
@@ -105,14 +91,8 @@ def call_apis():
         "Where did John go?",
         context="John and Mary went to Brighton Beach for their honeymoon.")
     # {
-    #   "answer": "You can take 5 days off every quarter as a paid leave.",
-    #   "reference": {...}
+    #   "answer": "Brighton Beach for their honeymoon"
     # }
-
-    result = smartcomplete(
-        "Dear Martha, I am not free today but would you like to grab coffee on", 
-        context="Today is Monday.")
-    # "Tuesday or Wednesday?",
 
     result = paraphrase("Can I have a large pizza?")
     # [
