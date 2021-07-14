@@ -12,4 +12,3 @@ Whitehead provides accurate, trainable, and context-aware natural language APIs 
 * Research institutes and media labs looking for more powerful NL tools.
 * Consulting firms looking for a NL solution that gives them an edge in product shipping.
 * Enterprise companies interested in building competitors to Alexa, Google Assistant, and Siri.
-

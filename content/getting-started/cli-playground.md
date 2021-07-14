@@ -2,12 +2,12 @@
 
 ## Node.js playground
 
-Both SDKs ship with a command-line based interactive playground that has built-in autocomplete and takes care of setting up the client, authentication, and async execution. Perfect for quick prototyping or for exploring the APIs. 
+Both SDKs ship with a command-line based interactive playground that has built-in autocomplete and takes care of setting up the client, authentication, and async execution. Perfect for quick prototyping or for exploring the APIs.
 
 ### Install
 
 {% hint style="info" %}
- To run the playground, you can either install the `@whitehead/sdk` package **globally** with the `-g` option, or install it locally and use `npx` to start it.
+To run the playground, you can either install the `@whitehead/sdk` package **globally** with the `-g` option, or install it locally and use `npx` to start it.
 {% endhint %}
 
 ```bash
@@ -16,8 +16,6 @@ npm i -g @whitehead/sdk
 # You can omit the -g flag and use it with npx
 npx @whitehead/sdk
 ```
-
-
 
 ### Set environment variables
 
@@ -34,8 +32,6 @@ export WHITEHEAD_DEVELOPER_ID=42
 export WHITEHEAD_API_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
-
-
 ### Start the playground interface
 
 ```bash
@@ -43,7 +39,7 @@ whitehead-plaground
 # Or `npx whitehead-plaground`
 ```
 
-![This is what the CLI playground looks like](../.gitbook/assets/mauna_playground_screenshot.png)
+![This is what the CLI playground looks like](https://github.com/whitehead-ai/docs/tree/463fce6207fdc18bbdad710ab66dd2b3072e86f4/content/.gitbook/assets/mauna_playground_screenshot.png)
 
 {% hint style="info" %}
 The playground comes with built-in **tab completion**, **top-level await**, **documentation,** and a **pre-configured API client.**

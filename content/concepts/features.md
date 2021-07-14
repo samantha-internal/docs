@@ -47,5 +47,3 @@ As part of the upgrade to [v0.2](https://docs.whitehead.ai/v/v0.2-preview), a nu
 | :--- | :--- |
 | `compose` | Easily compose different Whitehead APIs together in a single inference pipeline |
 
-
-

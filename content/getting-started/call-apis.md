@@ -29,7 +29,6 @@ const result = await client.api.chitchat({ input, history });
 */
 
 // --------------------------------------------
-
 ```
 {% endcode %}
 {% endtab %}
@@ -56,11 +55,8 @@ result = client.chitchat.execute(
 # }
 
 # ----------------------------------------------------
-
 ```
 {% endcode %}
 {% endtab %}
 {% endtabs %}
-
-
 

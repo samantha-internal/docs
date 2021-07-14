@@ -38,5 +38,3 @@ AR is a perfect application of better speech interfaces. They usually involve co
 
 Taking notes during meetings and turning them into structured, actionable data.
 
-
-

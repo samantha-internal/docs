@@ -53,7 +53,6 @@ const client = new Whitehead({ developerId, apiKey });
   /* Great! Now you can start calling APIs. :) */
 
 })();
-
 ```
 {% endcode %}
 {% endtab %}
@@ -71,14 +70,13 @@ api_key = "<64 letter api key available on your mauna dashboard>"
 client = Whitehead(api_key, developer_id)
 
 # Great! Now you can start calling APIs. :)
-
 ```
 {% endcode %}
 {% endtab %}
 {% endtabs %}
 
 {% hint style="info" %}
-For the python SDK, the `initialize()` step, like in the node.js client, isn't necessary because the python sdk runs auth synchronously at the time of instantiation. 
+For the python SDK, the `initialize()` step, like in the node.js client, isn't necessary because the python sdk runs auth synchronously at the time of instantiation.
 
 That aside, the python SDK also provides an `asyncio` interface for running queries .
 {% endhint %}

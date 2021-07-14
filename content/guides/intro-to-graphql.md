@@ -25,6 +25,7 @@ type User {
 
 After a GraphQL service is running \(typically at a URL on a web service\), it can receive GraphQL queries to validate and execute. The service first checks a query to ensure it only refers to the types and fields defined, and then runs the provided functions to produce a result.
 
+
 For example, the query:
 
 ```text
