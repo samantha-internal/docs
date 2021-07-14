@@ -25,10 +25,16 @@
 * [Using Node.js SDK](content/guides/using-nodejs-sdk.md)
 * [Using Python SDK](content/guides/using-python-sdk.md)
 
-## API Reference
+## Reference
 
+* [GraphQL Endpoint](content/api-reference/endpoint.md)
 * [Authentication](content/api-reference/authentication.md)
-* [GraphQL API](content/api-reference/graphql-api.md)
+
+## GraphQL API
+
+* [Queries](content/graphql-api/queries.md)
+* [Mutations](content/graphql-api/mutations.md)
+* [Subscriptions](content/graphql-api/subscriptions.md)
 
 ## Resources
 
