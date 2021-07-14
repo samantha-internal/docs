@@ -14,7 +14,7 @@ A GraphQL service is created by defining types and fields on those types, then p
 type Query {
   me: User
 }
- 
+
 type User {
   id: ID
   name: String
@@ -24,7 +24,6 @@ type User {
 ## Query
 
 After a GraphQL service is running \(typically at a URL on a web service\), it can receive GraphQL queries to validate and execute. The service first checks a query to ensure it only refers to the types and fields defined, and then runs the provided functions to produce a result.
-
 
 For example, the query:
 
@@ -44,5 +43,5 @@ GraphiQL is the GraphQL integrated development environment \(IDE\). It’s a pow
 
 **Whitehead ships with a built-in GraphiQL IDE that you can access from** [**the dashboard itself**](https://dashboard.whitehead.ai)**.**
 
-{% embed url="https://www.gatsbyjs.com/graphiql-explore.mp4" %}
+{% embed url="https://www.gatsbyjs.com/graphiql-explore.mp4" caption="" %}
 

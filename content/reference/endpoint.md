@@ -1,4 +1,4 @@
-# GraphQL API
+# GraphQL Endpoint
 
 {% hint style="info" %}
 Full type reference generated from the schema can be found [here](https://whitehead-ai.github.io/graphql/v1.x).

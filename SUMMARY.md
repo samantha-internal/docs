@@ -27,8 +27,8 @@
 
 ## Reference
 
-* [GraphQL Endpoint](content/api-reference/endpoint.md)
-* [Authentication](content/api-reference/authentication.md)
+* [GraphQL Endpoint](content/reference/endpoint.md)
+* [Authentication](content/reference/authentication.md)
 
 ## GraphQL API
 

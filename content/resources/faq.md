@@ -39,3 +39,4 @@ This is a very difficult problem and we are taking measures to tackle it.
 First and foremost, bias thrives in biased environments. We aspire to be an international team with a healthy representation of cultures and identities.
 
 Second, a lot of care has been taken in choosing our datasets to minimize discriminatory inputs. However, this can only go so far since these are too big for manual sieving and so we participate in OpenAI’s ethics initiative to disclose our modes of data selection so that our consumers can make better choices and take appropriate measures.
+
