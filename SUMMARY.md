@@ -22,8 +22,8 @@
 
 * [Intro to GraphQL](content/guides/intro-to-graphql.md)
 * [Call APIs directly](content/guides/call-apis-directly.md)
-* [Using Node.js SDK](content/guides/using-nodejs-sdk.md)
-* [Using Python SDK](content/guides/using-python-sdk.md)
+* [Node.js SDK](https://whitehead-ai.github.io/sdk)
+* [Python SDK](https://pypi.org/project/whitehead-sdk/)
 
 ## Reference
 
