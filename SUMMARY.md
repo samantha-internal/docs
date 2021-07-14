@@ -29,15 +29,16 @@
 * [GraphiQL](guides/graphiql.md)
 * [CLI playground](guides/cli-playground.md)
 
+## Reference
+
+* [GraphQL Endpoint](reference/endpoint.md)
+* [Authentication](reference/authentication.md)
+* [REST API](reference/rest-api.md)
+
 ## GraphQL API
 * [Queries](graphql-api/queries.md)
 * [Mutations](graphql-api/mutations.md)
 * [Subscriptions](graphql-api/subscriptions.md)
-
-## Reference
-
-* [Authentication](reference/authentication.md)
-* [REST API](reference/rest-api.md)
 
 ## Resources
 
