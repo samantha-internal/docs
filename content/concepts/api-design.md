@@ -11,12 +11,5 @@ Desired attributes for the APIs:
 | **Context-aware** | APIs should have access to context and conversation history |
 | **Trainable** | All models should have trainable pipelines |
 | **Multilingual** | Models should have support for multiple languages \(may be released over time\) |
-
-## GraphQL-first
-
-...
-
-## Streaming support
-
-...
+| **Modern** | Built on modern, type-safe protocols like GraphQL |
 
