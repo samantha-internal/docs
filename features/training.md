@@ -2,7 +2,7 @@
 
 \[Content description here\]
 
-## train ![coming-soon](../.gitbook/assets/coming-soon-text.png)
+## train ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
 > [Join the waitlist](http://fill-this-form)
 
@@ -14,7 +14,7 @@ Train \(or more precisely, fine-tune\) a task to your own dataset
 train(input: ) -> Output
 ```
 
-## eval ![coming-soon](../.gitbook/assets/coming-soon-text.png)
+## eval ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
 > [Join the waitlist](http://fill-this-form)
 

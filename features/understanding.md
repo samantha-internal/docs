@@ -14,7 +14,7 @@ Rank a list of inputs according to how sensible they are in a given context
 sensibility(input: ) -> Output
 ```
 
-## deduce ![beta](../.gitbook/assets/beta-text.png)
+## deduce ![beta](../.gitbook/assets/beta-text%20%281%29.png)
 
 Apply commonsense reasoning to normal situation
 
@@ -24,7 +24,7 @@ Apply commonsense reasoning to normal situation
 deduce(input: ) -> Output
 ```
 
-## topics ![beta](../.gitbook/assets/beta-text.png)
+## topics ![beta](../.gitbook/assets/beta-text%20%281%29.png)
 
 Mine topics from a given input
 
@@ -34,7 +34,7 @@ Mine topics from a given input
 topics(input: ) -> Output
 ```
 
-## smartcomplete ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
+## smartcomplete ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29%20%281%29.png)
 
 > [Join the waitlist](http://fill-this-form)
 
@@ -44,17 +44,5 @@ Smart auto-completion of a user prompt
 
 ```python
 smartcomplete(input: ) -> Output
-```
-
-## entities ![coming-soon](../.gitbook/assets/coming-soon-text.png)
-
-> [Join the waitlist](http://fill-this-form)
-
-Extract entities from a given input
-
-**Signature:**
-
-```python
-entities(input: ) -> Output
 ```
 

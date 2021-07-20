@@ -2,7 +2,7 @@
 
 \[Content description here\]
 
-## speak ![beta](../.gitbook/assets/beta-text.png)
+## speak ![beta](../.gitbook/assets/beta-text%20%281%29.png)
 
 Convert text to natural-sounding speech
 
@@ -12,7 +12,7 @@ Convert text to natural-sounding speech
 speak(input: ) -> Output
 ```
 
-## transcribe ![beta](../.gitbook/assets/beta-text.png)
+## transcribe ![beta](../.gitbook/assets/beta-text%20%281%29.png)
 
 Transcribe speech audio to extract text
 
@@ -22,7 +22,7 @@ Transcribe speech audio to extract text
 transcribe(input: ) -> Output
 ```
 
-## identify ![coming-soon](../.gitbook/assets/coming-soon-text.png)
+## identify ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
 > [Join the waitlist](http://fill-this-form)
 

@@ -2,19 +2,31 @@
 
 \[Content description here\]
 
-## parse ![coming-soon](../.gitbook/assets/coming-soon-text.png)
+## intent ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
 > [Join the waitlist](http://fill-this-form)
 
-Parse user input to understand intent and entities
+Train utterances against an intent classifier to recognize user intent from new inputs. Can also be used in a zero-shot configuration to intents in plain english.
 
 **Signature:**
 
 ```python
-parse(input: ) -> Output
+intent(input: ) -> Output
 ```
 
-## chitchat ![beta](../.gitbook/assets/beta-text.png)
+## match ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
+
+> [Join the waitlist](http://fill-this-form)
+
+Match user input against a predefined template to extract "slot" values.
+
+**Signature:**
+
+```python
+match(input: ) -> Output
+```
+
+## chitchat ![beta](../.gitbook/assets/beta-text%20%281%29.png)
 
 Conduct free-form chit-chat with your users
 
@@ -24,7 +36,7 @@ Conduct free-form chit-chat with your users
 chitchat(input: ) -> Output
 ```
 
-## dialogtag ![coming-soon](../.gitbook/assets/coming-soon-text.png)
+## dialogact ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
 > [Join the waitlist](http://fill-this-form)
 

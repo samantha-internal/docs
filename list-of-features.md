@@ -21,9 +21,10 @@
 
 | API | Description |
 | :--- | :--- |
-| `parse` | Parse user input to understand intent and entities |
+| `intent` | Classify utterances to recognize user intent from new inputs |
+| `match` | Match user input against a predefined template to extract "slot" values |
 | `chitchat` | Conduct free-form chit-chat with your users |
-| `dialogtag` | Tag dialog utterances with [_dialog acts_](https://en.wikipedia.org/wiki/Dialog_act) |
+| `dialogact` | Tag dialog utterances with [_dialog acts_](https://en.wikipedia.org/wiki/Dialog_act) |
 
 ## Understanding
 
@@ -33,7 +34,6 @@
 | `deduce` | Apply commonsense reasoning to normal situation |
 | `topics` | Mine topics from a given input |
 | `smartcomplete` | Smart auto-completion of a user prompt |
-| `entities` | Extract entities from a given input |
 
 ## Documents
 

@@ -14,7 +14,7 @@ Answer plain-language questions from a given context, including a set of documen
 answer(input: ) -> Output
 ```
 
-## search ![coming-soon](../.gitbook/assets/coming-soon-text.png)
+## search ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
 > [Join the waitlist](http://fill-this-form)
 
@@ -26,7 +26,7 @@ Semantic search and retrieval of queries from a set of documents
 search(input: ) -> Output
 ```
 
-## summarize ![coming-soon](../.gitbook/assets/coming-soon-text.png)
+## summarize ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
 > [Join the waitlist](http://fill-this-form)
 
