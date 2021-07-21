@@ -1,39 +1,29 @@
 # GraphQL Endpoint
 
 {% hint style="info" %}
-Full type reference generated from the schema can be found [here](https://whitehead-ai.github.io/graphql/v1.x).
+Full type reference generated from the schema can be found [here](../graphql-api/queries.md).
 {% endhint %}
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
+{% api-method method="post" host="https://apiv1.whitehead.ai" path="/v1/graphql" %}
 {% api-method-summary %}
-Get Cakes
+Query
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint allows you to get free cakes.
+This endpoint allows you to query our GraphQL schema.
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" %}
-ID of the cake to get, for free of course.
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-
 {% api-method-headers %}
-{% api-method-parameter name="Authentication" type="string" required=true %}
-Authentication token to track down who is emptying our stocks.
+{% api-method-parameter name="Authorization" type="string" required=true %}
+Authentication token to identify the user.
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
 
 {% api-method-query-parameters %}
-{% api-method-parameter name="recipe" type="string" %}
-The API will do its best to find a cake matching the provided recipe.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="gluten" type="boolean" %}
-Whether the cake should be gluten-free or not.
+{% api-method-parameter name="query" type="string" %}
+Valid GraphQL query as a string.
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
 {% endapi-method-request %}
@@ -41,24 +31,34 @@ Whether the cake should be gluten-free or not.
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-Cake successfully retrieved.
+If the query is successfully executed, its output is returned as follows:
 {% endapi-method-response-example-description %}
 
 ```text
-{    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
+{
+  "data": {
+    "<SERVICE_NAME>": {
+      "result": ...
+    }
+  }
+}
 ```
 {% endapi-method-response-example %}
 
-{% api-method-response-example httpCode=404 %}
+{% api-method-response-example httpCode=400 %}
 {% api-method-response-example-description %}
-Could not find a cake matching this query.
+If there are any client errors, an appropriate error code and message will be returned.
 {% endapi-method-response-example-description %}
 
-```text
-{    "message": "Ain't no cake like that."}
+```
+{
+  "errors": [...]
+}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+
 
