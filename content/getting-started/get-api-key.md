@@ -10,9 +10,9 @@ These instructions apply to the stable versions. If you are interested in our pr
 2. Navigate to the **Developers** section. 
 3. Take note of your account `ID` and your `Private Key` . 
 
-![](https://github.com/whitehead-ai/docs/tree/463fce6207fdc18bbdad710ab66dd2b3072e86f4/content/.gitbook/assets/screenshot-from-2021-06-17-18-25-58.png)
+![](../.gitbook/assets/screenshot-from-2021-06-17-18-25-58.png)
 
-## Now, let's install and setup a client
+## Now, let's install and setup a client --&gt;
 
 {% page-ref page="setup-client.md" %}
 

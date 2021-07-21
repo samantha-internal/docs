@@ -1,5 +1,9 @@
 # Introduction
 
+{% hint style="danger" %}
+**Heads up**: _Version 0.1_ will soon be deprecated in favor of [_v0.2_](https://docs.whitehead.ai/v/v0.2-preview). Please review the new product documentation so you can plan your migration to it as soon it's generally available.
+{% endhint %}
+
 ## NLU for humans.
 
 Whitehead is a simple and elegant API for common natural language tasks. You can use them to build games, chatbots, and novel conversational interfaces. Features include:

@@ -34,14 +34,14 @@ export WHITEHEAD_API_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 ### Start the playground interface
 
+{% hint style="info" %}
+The playground comes with built-in **tab completion**, **top-level await**, **documentation,** and a **pre-configured API client.**
+{% endhint %}
+
 ```bash
 whitehead-plaground
 # Or `npx whitehead-plaground`
 ```
 
-![This is what the CLI playground looks like](https://github.com/whitehead-ai/docs/tree/463fce6207fdc18bbdad710ab66dd2b3072e86f4/content/.gitbook/assets/mauna_playground_screenshot.png)
-
-{% hint style="info" %}
-The playground comes with built-in **tab completion**, **top-level await**, **documentation,** and a **pre-configured API client.**
-{% endhint %}
+![](../.gitbook/assets/mauna_playground_screenshot.png)
 
