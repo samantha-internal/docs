@@ -1,5 +1,9 @@
 # List of features
 
+{% hint style="success" %}
+You can view the current status of these features on [our roadmap](https://roadmap.whitehead.ai/roadmap). 
+{% endhint %}
+
 ## Language
 
 | API | Description | Ready to use | Trainable |
