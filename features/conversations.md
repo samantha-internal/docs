@@ -4,9 +4,9 @@ Natural language understanding tools that makes it easy to design and integrate 
 
 ## intent ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
-> [Join the waitlist](http://fill-this-form)
+> [Join the waitlist](https://roadmap.whitehead.ai/15)
 
-Train utterances against an intent classifier to recognize user intent from new inputs. Can also be used in a zero-shot configuration to intents in plain english.
+Train utterances against an intent classifier to recognize user intent from new inputs. Can also be used in a zero-shot configuration to intents in plain English.
 
 | Zero-shot \(ready to use\) | Trainable |
 | :--- | :--- |
@@ -24,7 +24,7 @@ result: str = await intent(input, model_id=model_id)
 
 ## match ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
-> [Join the waitlist](http://fill-this-form)
+> [Join the waitlist](https://roadmap.whitehead.ai/14)
 
 Match user input against a predefined template to extract "slot" values.
 
@@ -60,7 +60,7 @@ result = await chitchat(input, history)
 
 ## dialogact ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
-> [Join the waitlist](http://fill-this-form)
+> [Join the waitlist](https://roadmap.whitehead.ai/13)
 
 Tag dialog utterances with [_dialog acts_](https://en.wikipedia.org/wiki/Dialog_act)_._
 

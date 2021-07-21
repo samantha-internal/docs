@@ -35,7 +35,7 @@ result: float = await sentiment(input)
 
 ## emotions ![private-preview](../.gitbook/assets/private-preview-text.png)
 
-> [Join the waitlist](http://fill-this-form)
+> [Join the waitlist](https://roadmap.whitehead.ai/7)
 
 Classify input by different emotions like, `happiness`, `anger` etc
 

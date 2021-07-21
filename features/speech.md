@@ -35,7 +35,7 @@ result: str = await transcribe(input)
 
 ## identify ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
-> [Join the waitlist](http://fill-this-form)
+> [Join the waitlist](https://roadmap.whitehead.ai/11)
 
 Identify speakers from speech audio
 

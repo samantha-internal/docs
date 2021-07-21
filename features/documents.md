@@ -4,7 +4,7 @@ With Whitehead NLU, you can also integrate it with your document storage on most
 
 ## answer ![private-preview](../.gitbook/assets/private-preview-text.png)
 
-> [Join the waitlist](http://fill-this-form)
+> [Join the waitlist](https://roadmap.whitehead.ai/16)
 
 Answer plain-language questions from a given context, including a set of documents.
 
@@ -35,7 +35,7 @@ result = await answer("What is the return policy?", model_id=model_id)
 
 ## search ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
-> [Join the waitlist](http://fill-this-form)
+> [Join the waitlist](https://roadmap.whitehead.ai/18)
 
 Semantic search and retrieval of queries from a set of documents.
 
@@ -51,7 +51,7 @@ Semantic search and retrieval of queries from a set of documents.
 
 ## summarize ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
-> [Join the waitlist](http://fill-this-form)
+> [Join the waitlist](https://roadmap.whitehead.ai/17)
 
 Summarize document or passage. Zero-shot, no custom training required.
 

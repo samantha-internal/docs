@@ -4,7 +4,7 @@ Whitehead Natural Language tools not only enable you to analyze text but also re
 
 ## sensibility ![private-preview](../.gitbook/assets/private-preview-text.png)
 
-> [Join the waitlist](http://fill-this-form)
+> [Join the waitlist](https://roadmap.whitehead.ai/19)
 
 Rank a list of inputs according to how sensible they are in a given context.
 
@@ -71,7 +71,7 @@ result: List[Tuple[str, float]] = await topics(input, topics)
 
 ## smartcomplete ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29%20%281%29.png)
 
-> [Join the waitlist](http://fill-this-form)
+> [Join the waitlist](https://roadmap.whitehead.ai/21)
 
 Smart auto-completion of a user prompt.
 

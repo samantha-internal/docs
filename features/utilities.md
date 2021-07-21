@@ -4,7 +4,7 @@ Utilities for common NLU tasks like preprocessing and generating grammatically c
 
 ## template ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
-> [Join the waitlist](http://fill-this-form)
+> [Join the waitlist](https://roadmap.whitehead.ai/24)
 
 Generate output by interpolating variables in templates and apply the correct tense and inflections.
 
@@ -28,7 +28,7 @@ result = await template(input, options)
 
 ## normalize ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
-> [Join the waitlist](http://fill-this-form)
+> [Join the waitlist](https://roadmap.whitehead.ai/23)
 
 Normalize input to remove spelling mistakes, common grammatical mistakes etc.
 
