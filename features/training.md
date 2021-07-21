@@ -1,6 +1,6 @@
 # Training
 
-\[Content description here\]
+Training and evaluation APIs for finetuning tasks that support it.
 
 ## train ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
@@ -11,7 +11,7 @@ Train \(or more precisely, fine-tune\) a task to your own dataset
 **Signature:**
 
 ```python
-train(input: ) -> Output
+<UNDECIDED>
 ```
 
 ## eval ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
@@ -23,6 +23,6 @@ Evaluate accuracy of a custom model for a particular task
 **Signature:**
 
 ```python
-eval(input: ) -> Output
+<UNDECIDED>
 ```
 

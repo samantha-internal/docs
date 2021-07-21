@@ -1,28 +1,47 @@
 # Utilities
 
-\[Content description here\]
+Utilities for common NLU tasks like preprocessing and generating grammatically correct sentences from data.
 
 ## template ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
 > [Join the waitlist](http://fill-this-form)
 
-Generate output by interpolating variables in templates and apply the correct tense and inflections
+Generate output by interpolating variables in templates and apply the correct tense and inflections.
+
+| Zero-shot \(ready to use\) | Trainable |
+| :--- | :--- |
+| yes | no |
 
 **Signature:**
 
 ```python
-template(input: ) -> Output
+# We commonly find ourselves knowing what verb to suggest, but not what conjugation...
+options = {
+  "some_verb": "looks"
+}
+
+input = "Why John, you're {some_verb} handsome today!"
+
+result = await template(input, options)
+# >>> "Why John, you're looking handsome today!"
 ```
 
 ## normalize ![coming-soon](../.gitbook/assets/coming-soon-text%20%281%29.png)
 
 > [Join the waitlist](http://fill-this-form)
 
-Normalize input to remove spelling mistakes, common grammatical mistakes etc
+Normalize input to remove spelling mistakes, common grammatical mistakes etc.
+
+| Zero-shot \(ready to use\) | Trainable |
+| :--- | :--- |
+| yes | no |
 
 **Signature:**
 
 ```python
-normalize(input: ) -> Output
+input: str = "These phones is nt gud"
+
+result: str = await normalize(input)
+# >>> "These phones are not good"
 ```
 
