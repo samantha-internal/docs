@@ -1,5 +1,9 @@
 # Introduction
 
+{% hint style="warning" %}
+**Heads up**: _Version 0.2_ is currently only available as a private preview for some of our users. If you are interested in joining the preview, please reach out with your use case [here](https://whitehead-ai.zendesk.com/hc/en-us/requests/new).
+{% endhint %}
+
 ## NLU for humans.
 
 Whitehead is a simple and elegant API for common natural language tasks. You can use them to build games, chat bots and novel conversational interfaces. Features include:

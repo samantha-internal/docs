@@ -1,12 +1,12 @@
 # API design
 
-desired attributes for the product \(roughly in order of priority\):
+Desired attributes of the API:
 
 | Trait | Description |
 | :--- | :--- |
-| accurate | all services need to have benchmarks |
-| composable | high performance compose service |
-| trackable | track requests per account so we can analyze usage and charge |
-| stateful | conversation history and context persisted and available to APIs |
-| trainable | models should have trainable pipelines |
+| Accurate | All services need to have benchmarks |
+| Composable | High performance compose service |
+| Trackable | Track requests per account so we can analyze usage and charge correctly |
+| Stateful | Conversation history and context persisted should be available to the APIs |
+| Trainable | Models should have trainable pipelines |
 

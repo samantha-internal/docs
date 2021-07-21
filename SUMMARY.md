@@ -34,7 +34,7 @@
 * [GraphQL Endpoint](reference/graphql-endpoint.md)
 * [Authentication](reference/authentication.md)
 * [REST API](reference/rest-api.md)
-* [Node.js SDK](https://whitehead-ai.github.io/sdk)
+* [Node.js SDK](https://whitehead-ai.github.io/node-sdk)
 * [Python SDK](https://pypi.org/project/whitehead-sdk/)
 
 ## GraphQL API
